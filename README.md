@@ -6,11 +6,11 @@
         />
    </p>
    </div>
-   <div display="inline-block">
-<p>
+   <div display>
+<p align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doljae&layout=compact" />
-   </p>
-   <p>
+  
+
    
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=doljae&layout=compact" />
    </p>
