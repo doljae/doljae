@@ -8,11 +8,11 @@
    </div>
    <div>
 <p>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doljae&layout=compact" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doljae&layout=compact" />
    </p>
    <p>
    
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=doljae&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=doljae&layout=compact" />
    </p>
    </div>
 
