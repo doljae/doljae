@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <p align="center">
      <img src="https://github-readme-stats.vercel.app/api/?username=doljae&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
@@ -9,14 +9,14 @@
    <div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
 <p align="center">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doljae&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=250"
 </a>
       <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=doljae&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=250" />
-   </p>
    </a>
+   </p>
    </div>
-<div>
 
 
 <!--
