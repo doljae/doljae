@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doljae" alt="doljae" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dev.to username" target="blank"><img src="https://img.shields.io/twitter/follow/dev.to username?logo=twitter&style=for-the-badge" alt="dev.to username" /></a> </p>
+<p align="left"> <a href="https://twitter.com/링크를입력하세요" target="blank"><img src="https://img.shields.io/twitter/follow/링크를입력하세요?logo=twitter&style=for-the-badge" alt="링크를입력하세요" /></a> </p>
 
 - 🔭 I’m currently working on [project_name](link)
 
@@ -33,28 +33,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://dev.to/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://twitter.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://kaggle.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://fb.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://instagram.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://dribbble.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://www.behance.net/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://medium.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://discord.gg/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="dev.to username" height="30" width="40" /></a>
+<a href="https://codepen.io/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://dev.to/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://twitter.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://codesandbox.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://kaggle.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://fb.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://instagram.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://dribbble.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://www.behance.net/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://medium.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="https://discord.gg/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="링크를입력하세요" height="30" width="40" /></a>
+<a href="/링크를입력하세요" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="링크를입력하세요" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
