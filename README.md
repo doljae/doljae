@@ -14,7 +14,7 @@
 <h1 align="center">Hi 👋, I'm Seokjae Lee</h1>
 <h3 align="center">Hope for a full stack developer</h3>
 
-
+<div>
 <h3 align="left">Languages</h3>
 <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -38,9 +38,9 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  </p>
- 
+ </div>
 <div><a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doljae&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=250&card_height=150" alt="doljae" /> </a></div>
 
 <div>   
-     <img src="https://github-readme-stats.vercel.app/api/?username=doljae&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+   <a href="https://github.com/anuraghazra/github-readme-stats">  <img src="https://github-readme-stats.vercel.app/api/?username=doljae&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
          </a></div>
