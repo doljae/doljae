@@ -45,7 +45,10 @@
 </p>
  <h3 align="left">Tools</h3>
 <p align="left"> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/37795866/115251141-36515200-a165-11eb-92ff-2e9d2ee5a93e.png" alt="pycharm" width="40" height="40"/> </a> 
+ <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/37795866/115250527-a01d2c00-a164-11eb-917a-6f82cfc06f91.png" alt="intellij" width="40" height="40"/> </a> 
+  <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/37795866/115250633-bb883700-a164-11eb-9484-dbd4004190c8.png" alt="datagrip" width="40" height="40"/> </a> 
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  </p>
  
