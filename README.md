@@ -15,6 +15,12 @@
 <h3 align="center">Hope to be a full stack developer with A.I.</h3>
 
 <div>
+<h3 align="left">Recent Interests</h3>
+
+- Spring & Spring Security
+- JPA & SQL
+- Docker & Kubernetes
+ 
 <h3 align="left">Languages</h3>
 <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
