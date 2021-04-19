@@ -18,9 +18,13 @@
 <h3 align="left">Recent Interests</h3>
 
 - Spring & Spring Security
-- JPA & SQL
-- Docker & Kubernetes
- 
+- JPA & Database
+- Docker
+<h3 align="left"><a href="https://doljae.tistory.com/">Blog</a></h3>
+
+- P.S.(Problem Solving)
+- Reviews (Books, Lectures, etc)
+
 <h3 align="left">Languages</h3>
 <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
