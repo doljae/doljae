@@ -23,7 +23,7 @@
 <h3 align="left"><a href="https://doljae.tistory.com/">Blog</a></h3>
 
 - P.S.(Problem Solving)
-- Reviews (Books, Lectures, etc)
+- Reviews (Books, Lectures, Tech, etc)
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
