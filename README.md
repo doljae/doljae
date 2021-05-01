@@ -15,7 +15,7 @@
 <h3 align="center">Hope to be a full stack developer with A.I.</h3>
 
 <div>
-<h3 align="left">Current Interests</h3>
+<h3 align="left">Current Interests(Studying)</h3>
 
 - Spring & Spring Security
 - JPA & Database
