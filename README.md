@@ -12,7 +12,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Seokjae Lee</h1>
-<h3 align="center">Hope to be a full stack developer with A.I.</h3>
 
 <div>
 <h3 align="left"><a href="https://doljae.tistory.com/">Blog</a></h3>
