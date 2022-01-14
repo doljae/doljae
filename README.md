@@ -11,7 +11,7 @@
 </div>-->
 
 
-<h1 align="center">Hi 👋, I'm Seokjae Lee</h1>
+<h1 align="center">Hi 👋</h1>
 
 <div>
 <h3 align="left"><a href="https://doljae.tistory.com/">Blog</a></h3>
