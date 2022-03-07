@@ -248,7 +248,7 @@
     <!-- Hi, I'm Sigrid Jin -->
     <g transform="translate(10, 0)" class="msg-1 bubble">
         <rect width="195" height="42" rx="18.0355"/>
-        <text x="15" y="27">Hello, I'm Starcaptor.</text>
+        <text x="15" y="27">Hello, I'm doljae.</text>
     </g>
 
     <!-- typing 2 -->
@@ -273,7 +273,7 @@
     <g transform="translate(10, 48)" class="msg-2">
         <rect width="400" height="66.1302" rx="18.0355" class="bubble"/>
         <text x="15" y="27">I live somewhere in South Korea,</text>
-        <text x="15" y="50">it’s supposed to be 44° F (7° C) and <tspan class="emoji">☁️</tspan> today.
+        <text x="15" y="50">it’s supposed to be 46° F (8° C) and <tspan class="emoji">☁️</tspan> today.
         </text>
     </g>
 
