@@ -245,9 +245,9 @@
 
     </g>
 
-    <!-- Hi, I'm Sigrid Jin -->
+    <!-- Hi, I'm XXX -->
     <g transform="translate(10, 0)" class="msg-1 bubble">
-        <rect width="155" height="42" rx="18.0355"/>
+        <rect width="160" height="42" rx="18.0355"/>
         <text x="15" y="27">Hello, I'm doljae.</text>
     </g>
 
