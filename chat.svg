@@ -273,7 +273,7 @@
     <g transform="translate(10, 48)" class="msg-2">
         <rect width="400" height="66.1302" rx="18.0355" class="bubble"/>
         <text x="15" y="27">I live somewhere in South Korea,</text>
-        <text x="15" y="50">it’s supposed to be 51° F (11° C) and <tspan class="emoji">☁️</tspan> today.
+        <text x="15" y="50">it’s supposed to be 50° F (10° C) and <tspan class="emoji">☁️</tspan> today.
         </text>
     </g>
 
