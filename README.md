@@ -1,1 +1,3 @@
-![message_svg](https://github.com/doljae/doljae/blob/main/chat.svg)
+// README.md
+...
+![message_svg](https://github.com/doljae/doljae/blob/master/chat.svg)
