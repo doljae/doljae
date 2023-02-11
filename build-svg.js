@@ -24,9 +24,9 @@ function convertTZ(date, tzString) {
 const today = convertTZ(new Date(), "Asia/Seoul");
 const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(new Date());
 
-const psTime = formatDistance(new Date(2020, 12, 14), today, {
-  addSuffix: false
-})
+// const psTime = formatDistance(new Date(2020, 12, 14), today, {
+//   addSuffix: false
+// })
 
 // Today's weather
 weather.setLang('en')
