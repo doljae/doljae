@@ -19,10 +19,10 @@ const emojis = {
 
 // Time working at PlanetScale
 function convertTZ(date, tzString) {
-  return new Date((typeof date === "string" ? new Date(date) : date).toLocaleString("en-US", {timeZone: tzString}));
+  return new Date((typeof date === "string" ? new Date(date) : date).toLocaleString("ko", {timeZone: tzString}));
 }
 const today = convertTZ(new Date(), "Asia/Seoul");
-const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(today);
+const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(new Date());
 
 const psTime = formatDistance(new Date(2020, 12, 14), today, {
   addSuffix: false
