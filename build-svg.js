@@ -4,8 +4,8 @@ let fs = require('fs')
 let weather = require('openweather-apis')
 let qty = require('js-quantities')
 
-const today2 = new Date().toLocaleString('en-US', { timeZone: 'Asia/Seoul' })
-const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(new Date(today2))
+const today = new Date().toLocaleString('en-US', { timeZone: 'Asia/Seoul' })
+const date = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(new Date(today))
 
 fs.readFile('template.svg', 'utf-8', (error, data) => {
     if (error) {
@@ -13,7 +13,7 @@ fs.readFile('template.svg', 'utf-8', (error, data) => {
         return
     }
 
-    data = data.replace('{todayDay}', todayDay)
+    data = data.replace('{date}', date)
 
     data = fs.writeFile('chat.svg', data, (err) => {
         if (err) {
