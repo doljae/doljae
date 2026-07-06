@@ -3,7 +3,7 @@
 Backend Engineer focused on Spring, Kotlin/Java, and reliable production systems.
 
 - GitHub: https://github.com/doljae
-- Blog: https://doljae.github.io
+- Blog: https://doljae.tistory.com/
 - LinkedIn: https://www.linkedin.com/in/doljae
 
 ## Tech
